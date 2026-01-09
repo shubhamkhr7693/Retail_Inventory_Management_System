@@ -1,4 +1,4 @@
-# 🍬 Sweet Shop Management System
+# 🍬 Retail Inventory & Management System
 
 A full-stack web application for managing a Sweet Shop.  
 This project has a **frontend** built using **HTML, CSS, JavaScript** and a **backend** built with **Django**.
